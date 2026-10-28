@@ -1,0 +1,32 @@
+Minigames - credits
+
+Lag Clicker
+  Game by Deli, included with permission.
+
+Lag Clicker songs
+  "circle the halls" by nekodex
+  "circles!"         by nekodex
+  "triangles"        by cYsmix
+
+  Song audio and beatmap timing come from the osu! resources repository by ppy:
+  https://github.com/ppy/osu-resources
+
+  Licensed under Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0):
+  https://creativecommons.org/licenses/by-nc/4.0/
+
+  Timing for "circle the halls" is taken from the beatmap
+  "nekodex - circle the halls (pishifat) [laser show]" by pishifat.
+  Timing (BPM, offset, chorus sections) for "circles!" and "triangles" is taken from
+  the beatmaps by peppy.
+
+  Changes: the audio was converted for Supreme Commander. The Lag Clicker maps were
+  generated: circles are placed on the attacks in the music, and busier parts of a song get
+  more circles. "circle the halls" is guided by pishifat's beatmap; for "circles!" and
+  "triangles" the BPM comes from peppy's beatmaps and the beat position was measured from
+  the audio.
+
+  "The Future Battlefield" and "One Planet at a Time": credits to be added.
+  Their maps were generated from tempo measured in the audio.
+
+  This mod is free and non-commercial. It is not affiliated with or endorsed by osu!
+  or ppy.
