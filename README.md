@@ -8,6 +8,10 @@ Additions to the Forged Alliance Forever game lobby (the screen when you host or
   - **Challenges:** Chess and Battleship against a player you pick.
   - **Solo games:** Snake, Sudoku, Minesweeper, Dragonsweeper, Lag Clicker, Battleship against the bot.
 
+## Download
+
+**[NuggetsLobby.zip](https://github.com/Nuggets75/nuggets-lobby/releases/latest/download/NuggetsLobby.zip)**: the latest release, ready to install with `wrapper.exe` included (see [Releases](https://github.com/Nuggets75/nuggets-lobby/releases)). `wrapper.exe` is built from [`nuggets-lobby/source`](nuggets-lobby/source); each release lists its SHA-256.
+
 ## How it works
 
 FAF's files are never modified, so the client's file check still passes and nothing is overwritten by updates.
@@ -34,7 +38,7 @@ set GOOS=windows& go build -trimpath -ldflags "-s -w -H=windowsgui" -o ..\wrappe
 
 ## Installing
 
-See [`nuggets-lobby/README.txt`](nuggets-lobby/README.txt). In short:
+Download the zip above, then (details in [`nuggets-lobby/README.txt`](nuggets-lobby/README.txt)):
 
 1. Copy `init_nuggets.lua` into `C:\ProgramData\FAForever\bin\`.
 2. Copy the `nuggets-lobby` folder (with `wrapper.exe`) into `C:\ProgramData\FAForever\`.
